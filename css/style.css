@@ -1406,10 +1406,10 @@ h3 {
 }
 
 @media (max-width: 767px) {
-  /* line 36, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_features.scss */
   .features_area .features_info2 h3 {
     font-size: 30px;
     line-height: 40px;
+    padding-top: 50px;
   }
 }
 

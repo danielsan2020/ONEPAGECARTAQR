@@ -1,6 +1,6 @@
 <?php
 
-    $to = "cartaQR.com";
+    $to = "info@menuonlineqr.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];
@@ -13,15 +13,15 @@
 	$headers .= "MIME-Version: 1.0\r\n";
 	$headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
-    $subject = "Tienes un mensaje de CartaQR";
+    $subject = "Tienes un mensaje de Menú OnlineQR";
 
     $logo = 'img/logo.png';
-    $link = '#';
+    $link = 'https://www.menuonlineqr.com/';
 
-	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Express Mail</title></head><body>";
+	$body = "<!DOCTYPE html><html lang='es'><head><meta charset='UTF-8'><title>Menú OnlineQR</title></head><body>";
 	$body .= "<table style='width: 100%;'>";
 	$body .= "<thead style='text-align: center;'><tr><td style='border:none;' colspan='2'>";
-	$body .= "<a href='{$link}'><img src='{$logo}' alt=''></a><br><br>";
+	$body .= "<a href='{$link}'><img src='{$logo}' alt='Menú OnlineQR'></a><br><br>";
 	$body .= "</td></tr></thead><tbody><tr>";
 	$body .= "<td style='border:none;'><strong>Name:</strong> {$name}</td>";
 	$body .= "<td style='border:none;'><strong>Email:</strong> {$from}</td>";
