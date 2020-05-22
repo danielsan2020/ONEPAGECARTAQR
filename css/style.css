@@ -3178,10 +3178,6 @@ h3 {
   color: #00D363;
 }
 
-/* .prising_area .single_prising .prising_header.pink_header {
-  background: #FEF4EE;
-} */
-
 .prising_area .single_prising .prising_header.pink_header span {
   color: #FDAE5C;
 }
@@ -3189,6 +3185,7 @@ h3 {
 .prising_area .single_prising ul {
   margin-top: 30px;
   margin-bottom: 30px;
+  text-align: center;
 }
 
 .prising_area .single_prising ul li {
@@ -3241,24 +3238,20 @@ h3 {
 
 /*=================== contact banner end ====================*/
 /*=================== contact form start ====================*/
-/* line 45, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_contact.scss */
 .contact-title {
   font-size: 27px;
   font-weight: 600;
   margin-bottom: 20px;
 }
 
-/* line 53, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_contact.scss */
 .form-contact label {
   font-size: 14px;
 }
 
-/* line 57, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_contact.scss */
 .form-contact .form-group {
   margin-bottom: 30px;
 }
 
-/* line 61, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_contact.scss */
 .form-contact .form-control {
   border: 1px solid #e5e6e9;
   border-radius: 0px;
@@ -3268,19 +3261,16 @@ h3 {
   background: transparent;
 }
 
-/* line 69, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_contact.scss */
 .form-contact .form-control:focus {
   outline: 0;
   box-shadow: none;
 }
 
-/* line 74, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_contact.scss */
 .form-contact .form-control::placeholder {
   font-weight: 300;
   color: #999999;
 }
 
-/* line 80, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_contact.scss */
 .form-contact textarea {
   border-radius: 0px;
   height: 100% !important;
@@ -3298,7 +3288,6 @@ h3 {
   width: 100%;
 }
 
-/* line 106, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_contact.scss */
 .modal-message .modal-dialog .modal-content .modal-header {
   text-align: center;
   display: block;
@@ -3307,7 +3296,6 @@ h3 {
   padding-bottom: 50px;
 }
 
-/* line 112, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_contact.scss */
 .modal-message .modal-dialog .modal-content .modal-header .close {
   position: absolute;
   right: -15px;
