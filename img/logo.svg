@@ -3,23 +3,1444 @@
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 112.9 71.5" style="enable-background:new 0 0 112.9 71.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#4287F5;}
-	.st1{font-family:'CenturyGothic-Bold';}
-	.st2{font-size:4.5237px;}
-	.st3{font-size:6.5147px;}
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{clip-path:url(#SVGID_4_);}
+	.st2{fill:#4287F5;}
+	.st3{clip-path:url(#SVGID_6_);}
 	.st4{fill:#FFFFFF;}
+	.st5{clip-path:url(#SVGID_8_);}
 </style>
 <g>
-	<text transform="matrix(1 0 0 1 37.7798 47.4123)" class="st0 st1 st2">MenúOnline</text>
-	<text transform="matrix(1 0 0 1 64.4798 47.4123)" class="st0 st1 st3">QR</text>
+	<g>
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M62,40l1.5,2h-2l-0.8-1c-0.6,0.3-1.3,0.5-2.1,0.5c-1.3,0-2.4-0.5-3.3-1.4c-0.9-0.9-1.3-2-1.3-3.2
+					c0-0.8,0.2-1.6,0.6-2.3c0.4-0.7,1-1.3,1.7-1.7c0.7-0.4,1.5-0.6,2.3-0.6c1.2,0,2.3,0.4,3.2,1.3c0.9,0.9,1.3,2,1.3,3.3
+					C63.1,38.2,62.8,39.2,62,40z M61,38.7c0.4-0.5,0.5-1.1,0.5-1.7c0-0.8-0.3-1.5-0.8-2.1c-0.6-0.6-1.2-0.9-2-0.9
+					c-0.8,0-1.5,0.3-2,0.8c-0.6,0.6-0.8,1.3-0.8,2.1c0,1,0.3,1.7,1,2.3c0.5,0.4,1.2,0.7,1.8,0.7c0.4,0,0.8-0.1,1.1-0.2l-1.6-2h2
+					L61,38.7z"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st0">
+				<rect x="50" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50.7" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.3" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.9" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.5" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.4" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.4" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="28.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="29.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="29.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="29.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.9" y="29.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.5" y="29.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="29.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="29.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="29.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.9" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.5" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.4" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="30" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.9" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.5" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.4" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="30.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.9" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.4" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="31.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="32" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="32" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.9" y="32" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="32" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="32" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="32" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="32" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50.7" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.3" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.9" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.4" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.4" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="32.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="33.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.9" y="33.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="33.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.5" y="33.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="33.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="33.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50.7" y="33.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="33.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="33.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="33.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.9" y="33.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="33.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.9" y="33.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="33.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="33.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="33.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="33.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="34.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="34.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="34.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="34.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="34.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.1" y="34.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.4" y="34.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="34.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="34.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.4" y="34.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65" y="34.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.3" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.9" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.5" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.4" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="35.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.3" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="54.6" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.4" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.4" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="35.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50.7" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.3" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.9" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.9" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.1" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="36.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="37.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="37.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.3" y="37.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="54.6" y="37.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="37.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="37.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="37.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="37.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="37.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="37.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="37.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65" y="37.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50.7" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.9" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.1" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.4" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="37.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.3" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.9" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.4" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.4" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="38.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.3" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.9" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.5" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.1" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.4" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.4" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65" y="39.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="39.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.5" y="39.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="39.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="39.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65" y="39.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50.7" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.3" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.9" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.5" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="40.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="41.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="41.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="41.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.5" y="41.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="41.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="41.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="41.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="41.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.9" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.9" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.1" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.4" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65" y="41.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.5" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.1" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.4" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="42.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.2" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.4" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.4" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="43" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="43.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="43.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="43.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="43.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.8" y="43.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="43.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.4" y="43.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.1" y="43.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.4" y="43.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65" y="43.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="43.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="50.7" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="51.3" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="52.6" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.3" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="53.9" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.2" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.6" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.9" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.2" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.5" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.1" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.8" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.7" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.7" y="44.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+			</g>
+		</g>
+		<g>
+			<defs>
+				<path id="SVGID_3_" d="M64,32.8h1.8c1,0,1.6,0.1,2.1,0.3c0.4,0.2,0.7,0.5,1,0.9c0.2,0.4,0.4,0.9,0.4,1.4c0,0.6-0.1,1.1-0.4,1.4
+					c-0.3,0.4-0.7,0.7-1.2,0.9l2.1,3.9h-1.8l-2-3.7h-0.2v3.7H64V32.8z M65.6,36.2h0.5c0.5,0,0.9-0.1,1.1-0.2
+					c0.2-0.1,0.3-0.4,0.3-0.7c0-0.2,0-0.4-0.1-0.5c-0.1-0.1-0.2-0.2-0.4-0.3c-0.2-0.1-0.5-0.1-0.9-0.1h-0.5V36.2z"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st1">
+				<rect x="55.8" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.4" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.6" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.2" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.2" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.1" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.8" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="29.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="29.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="29.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="29.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.6" y="29.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.2" y="29.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="29.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="29.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="29.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.6" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.2" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.1" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="30.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.6" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.2" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.1" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="31.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.6" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.1" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="31.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="32.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="32.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.6" y="32.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="32.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="32.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="32.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="32.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.4" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.6" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.2" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.1" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.8" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="33.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="33.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.6" y="33.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="33.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.2" y="33.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="33.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="34.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.4" y="34.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="34.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="34.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="34.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.6" y="34.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="34.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.6" y="34.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="34.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="34.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="34.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="34.4" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="35" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="35" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="35" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="35" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="35" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.9" y="35" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.2" y="35" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="35" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="35" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.1" y="35" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.8" y="35" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.6" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.2" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.2" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="35.7" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.3" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.2" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.1" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.8" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="36.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.4" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.6" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.6" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.9" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="37" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="37.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="37.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59" y="37.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="60.3" y="37.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="37.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="37.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="37.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="37.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="37.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="37.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="37.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.8" y="37.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.4" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.6" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.9" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.1" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.8" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="38.3" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.6" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.2" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.1" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="38.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.6" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.2" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.9" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.2" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.1" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.8" y="39.6" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="40.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.2" y="40.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="40.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="40.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.8" y="40.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.4" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.6" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.2" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="40.9" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="41.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="41.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="41.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.2" y="41.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="41.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="41.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="41.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="41.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61.6" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.6" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.9" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.2" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.8" y="42.2" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.2" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.9" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.2" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.8" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="42.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.9" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.2" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.1" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.8" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="43.5" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="44.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="44.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="44.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="44.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="65.6" y="44.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="44.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.2" y="44.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="68.8" y="44.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.1" y="44.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="70.8" y="44.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="44.1" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="55.8" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="56.4" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.1" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="57.7" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="58.4" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="59.7" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="61" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="62.3" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="63.6" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="64.9" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.2" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="66.9" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="67.5" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="69.5" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+				<rect x="71.4" y="44.8" shape-rendering="optimizeSpeed" width="0.7" height="0.7"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st2" d="M35.6,32.1h1l1.2,3.6l1.2-3.6h1l0.9,5.2h-1L39.3,34l-1.1,3.3h-0.9L36.3,34l-0.6,3.3h-1L35.6,32.1z"/>
+			<path class="st2" d="M45.4,34.9h-3.1c0,0.3,0.2,0.5,0.4,0.7c0.2,0.2,0.4,0.2,0.7,0.2c0.4,0,0.7-0.1,0.9-0.4l0.8,0.4
+				c-0.2,0.3-0.4,0.5-0.7,0.6c-0.3,0.1-0.6,0.2-1,0.2c-0.6,0-1.1-0.2-1.5-0.6c-0.4-0.4-0.6-0.9-0.6-1.4c0-0.6,0.2-1.1,0.6-1.5
+				c0.4-0.4,0.9-0.6,1.4-0.6c0.6,0,1.1,0.2,1.5,0.6c0.4,0.4,0.6,0.9,0.6,1.5L45.4,34.9z M44.4,34.2c-0.1-0.2-0.2-0.4-0.4-0.5
+				c-0.2-0.1-0.4-0.2-0.7-0.2c-0.3,0-0.5,0.1-0.7,0.2c-0.1,0.1-0.2,0.3-0.4,0.5H44.4z"/>
+			<path class="st2" d="M46.2,32.8h1v0.4c0.2-0.2,0.4-0.3,0.6-0.4c0.2-0.1,0.4-0.1,0.5-0.1c0.4,0,0.7,0.1,1,0.4
+				c0.2,0.2,0.3,0.6,0.3,1v2.5h-1v-1.7c0-0.5,0-0.8-0.1-0.9c0-0.1-0.1-0.3-0.2-0.3c-0.1-0.1-0.2-0.1-0.4-0.1c-0.2,0-0.4,0.1-0.5,0.2
+				c-0.1,0.1-0.2,0.3-0.3,0.5c0,0.1,0,0.4,0,0.8v1.5h-1V32.8z"/>
+			<path class="st2" d="M50.5,33.7h1v1.9c0,0.4,0,0.6,0.1,0.8c0,0.1,0.1,0.2,0.2,0.3c0.1,0.1,0.2,0.1,0.4,0.1c0.2,0,0.3,0,0.4-0.1
+				c0.1-0.1,0.2-0.2,0.2-0.3c0-0.1,0.1-0.3,0.1-0.7v-1.9h1v1.6c0,0.7-0.1,1.1-0.2,1.4c-0.1,0.3-0.3,0.5-0.6,0.7
+				c-0.3,0.2-0.6,0.2-1,0.2c-0.4,0-0.8-0.1-1-0.3c-0.3-0.2-0.4-0.4-0.5-0.8c-0.1-0.2-0.1-0.7-0.1-1.3V33.7z M52.3,31.6h1.1L52.2,33
+				h-0.7L52.3,31.6z"/>
+		</g>
+		<g>
+			<path class="st2" d="M35.9,37.3c0.7,0,1.4,0.3,1.9,0.8c0.5,0.5,0.8,1.2,0.8,1.9c0,0.8-0.3,1.4-0.8,1.9c-0.5,0.5-1.2,0.8-1.9,0.8
+				c-0.8,0-1.4-0.3-1.9-0.8c-0.5-0.5-0.8-1.2-0.8-1.9c0-0.5,0.1-1,0.4-1.4c0.2-0.4,0.6-0.7,1-1C35,37.4,35.4,37.3,35.9,37.3z
+				 M35.9,38.2c-0.5,0-0.9,0.2-1.2,0.5c-0.3,0.3-0.5,0.8-0.5,1.3c0,0.6,0.2,1,0.6,1.4c0.3,0.3,0.7,0.4,1.1,0.4
+				c0.5,0,0.9-0.2,1.2-0.5c0.3-0.3,0.5-0.8,0.5-1.3c0-0.5-0.2-0.9-0.5-1.3C36.8,38.4,36.4,38.2,35.9,38.2z"/>
+			<path class="st2" d="M39.4,38.1h1v0.4c0.2-0.2,0.4-0.3,0.6-0.4c0.2-0.1,0.4-0.1,0.5-0.1c0.4,0,0.7,0.1,1,0.4
+				c0.2,0.2,0.3,0.6,0.3,1V42h-1v-1.7c0-0.5,0-0.8-0.1-0.9c0-0.1-0.1-0.3-0.2-0.3c-0.1-0.1-0.2-0.1-0.4-0.1c-0.2,0-0.4,0.1-0.5,0.2
+				c-0.1,0.1-0.2,0.3-0.3,0.5c0,0.1,0,0.4,0,0.8V42h-1V38.1z"/>
+			<path class="st2" d="M43.7,37.3h1v5.3h-1V37.3z"/>
+			<path class="st2" d="M45.9,37.3c0.2,0,0.3,0.1,0.4,0.2c0.1,0.1,0.2,0.3,0.2,0.4c0,0.2-0.1,0.3-0.2,0.4c-0.1,0.1-0.3,0.2-0.4,0.2
+				c-0.2,0-0.3-0.1-0.4-0.2c-0.1-0.1-0.2-0.3-0.2-0.5c0-0.2,0.1-0.3,0.2-0.4C45.6,37.3,45.7,37.3,45.9,37.3z M45.4,38.8h1v3.8h-1
+				V38.8z"/>
+			<path class="st2" d="M47.2,38.1h1v0.4c0.2-0.2,0.4-0.3,0.6-0.4C49,38,49.1,38,49.3,38c0.4,0,0.7,0.1,1,0.4c0.2,0.2,0.3,0.6,0.3,1
+				V42h-1v-1.7c0-0.5,0-0.8-0.1-0.9c0-0.1-0.1-0.3-0.2-0.3c-0.1-0.1-0.2-0.1-0.4-0.1c-0.2,0-0.4,0.1-0.5,0.2
+				c-0.1,0.1-0.2,0.3-0.3,0.5c0,0.1,0,0.4,0,0.8V42h-1V38.1z"/>
+			<path class="st2" d="M55.4,40.3h-3.1c0,0.3,0.2,0.5,0.4,0.7c0.2,0.2,0.4,0.2,0.7,0.2c0.4,0,0.7-0.1,0.9-0.4l0.8,0.4
+				c-0.2,0.3-0.4,0.5-0.7,0.6c-0.3,0.1-0.6,0.2-1,0.2c-0.6,0-1.1-0.2-1.5-0.6c-0.4-0.4-0.6-0.9-0.6-1.4c0-0.6,0.2-1.1,0.6-1.5
+				c0.4-0.4,0.9-0.6,1.4-0.6c0.6,0,1.1,0.2,1.5,0.6c0.4,0.4,0.6,0.9,0.6,1.5L55.4,40.3z M54.5,39.5c-0.1-0.2-0.2-0.4-0.4-0.5
+				s-0.4-0.2-0.7-0.2c-0.3,0-0.5,0.1-0.7,0.2c-0.1,0.1-0.2,0.3-0.4,0.5H54.5z"/>
+		</g>
+	</g>
 </g>
-<image style="overflow:visible;opacity:0.5;enable-background:new    ;" width="1117" height="782" xlink:href="../../../../CLIENTES OFFLINE/ONE PAGE/qrcarta/img/27A3B22C.png"  transform="matrix(7.833975e-03 0 0 7.833975e-03 64.7322 42.1234)">
-</image>
 <g>
-	<text transform="matrix(1 0 0 1 36.7198 34.8923)" class="st4 st1 st2">MenúOnline</text>
-	<text transform="matrix(1 0 0 1 63.4198 34.8923)" class="st4 st1 st3">QR</text>
-	
-		<image style="overflow:visible;opacity:0.5;enable-background:new    ;" width="1117" height="782" xlink:href="../../../../CLIENTES OFFLINE/ONE PAGE/qrcarta/img/27A3B22D.png"  transform="matrix(7.833975e-03 0 0 7.833975e-03 63.6722 29.6034)">
-	</image>
+	<g>
+		<defs>
+			<path id="SVGID_5_" d="M62,56.2l1.5,2h-2l-0.8-1c-0.6,0.3-1.3,0.5-2.1,0.5c-1.3,0-2.4-0.5-3.3-1.4c-0.9-0.9-1.3-2-1.3-3.2
+				c0-0.8,0.2-1.6,0.6-2.3c0.4-0.7,1-1.3,1.7-1.7c0.7-0.4,1.5-0.6,2.3-0.6c1.2,0,2.3,0.4,3.2,1.3c0.9,0.9,1.3,2,1.3,3.3
+				C63.1,54.4,62.8,55.4,62,56.2z M61,54.9c0.4-0.5,0.5-1.1,0.5-1.7c0-0.8-0.3-1.5-0.8-2.1c-0.6-0.6-1.2-0.9-2-0.9
+				c-0.8,0-1.5,0.3-2,0.8c-0.6,0.6-0.8,1.3-0.8,2.1c0,1,0.3,1.7,1,2.3c0.5,0.4,1.2,0.7,1.8,0.7c0.4,0,0.8-0.1,1.1-0.2l-1.6-2h2
+				L61,54.9z"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st3">
+			<rect x="50" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50.7" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.3" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.9" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.5" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.4" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.4" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="44.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="45.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="45.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="45.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.9" y="45.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.5" y="45.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="45.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="45.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="45.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.9" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.5" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.4" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="46.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.9" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.5" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.4" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="46.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.9" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.4" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="47.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="48.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="48.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.9" y="48.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="48.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="48.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="48.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="48.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50.7" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.3" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.9" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.4" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.4" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="48.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="49.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.9" y="49.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="49.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.5" y="49.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="49.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="50.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50.7" y="50.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="50.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="50.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="50.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.9" y="50.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="50.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.9" y="50.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="50.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="50.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="50.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="50.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="50.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="50.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="50.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="50.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="50.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.1" y="50.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.4" y="50.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="50.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="50.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.4" y="50.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65" y="50.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.3" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.9" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.5" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.4" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="51.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.3" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="54.6" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.4" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.4" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="52.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50.7" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.3" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.9" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.9" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.1" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="52.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="53.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="53.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.3" y="53.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="54.6" y="53.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="53.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="53.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="53.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="53.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="53.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="53.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="53.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65" y="53.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50.7" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.9" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.1" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.4" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="54" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.3" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.9" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.4" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.4" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="54.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.3" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.9" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.5" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.1" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.4" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.4" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65" y="55.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="56" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.5" y="56" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="56" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="56" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65" y="56" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50.7" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.3" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.9" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.5" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="56.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="57.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="57.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="57.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.5" y="57.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="57.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="57.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="57.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="57.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.9" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.9" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.1" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.4" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65" y="57.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.5" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.1" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.4" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="58.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.2" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.4" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.4" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="59.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="59.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="59.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="59.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="59.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.8" y="59.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="59.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.4" y="59.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.1" y="59.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.4" y="59.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65" y="59.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="59.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="50.7" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="51.3" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="52.6" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.3" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="53.9" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.2" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.6" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.9" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.2" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.5" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.1" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.8" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.7" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.7" y="60.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_7_" d="M64,49h1.8c1,0,1.6,0.1,2.1,0.3c0.4,0.2,0.7,0.5,1,0.9c0.2,0.4,0.4,0.9,0.4,1.4c0,0.6-0.1,1.1-0.4,1.4
+				c-0.3,0.4-0.7,0.7-1.2,0.9l2.1,3.9h-1.8l-2-3.7h-0.2v3.7H64V49z M65.6,52.4h0.5c0.5,0,0.9-0.1,1.1-0.2c0.2-0.1,0.3-0.4,0.3-0.7
+				c0-0.2,0-0.4-0.1-0.5c-0.1-0.1-0.2-0.2-0.4-0.3c-0.2-0.1-0.5-0.1-0.9-0.1h-0.5V52.4z"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st5">
+			<rect x="55.8" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.4" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.6" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.2" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.2" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.1" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.8" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="45.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="46" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="46" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="46" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.6" y="46" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.2" y="46" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="46" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="46" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="46" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.6" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.2" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.1" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="46.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.6" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.2" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.1" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="47.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.6" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.1" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="48" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="48.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="48.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.6" y="48.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="48.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="48.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="48.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="48.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.4" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.6" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.2" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.1" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.8" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="49.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="49.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.6" y="49.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="49.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.2" y="49.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="49.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="50.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.4" y="50.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="50.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="50.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="50.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.6" y="50.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="50.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.6" y="50.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="50.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="50.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="50.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="50.6" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="51.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="51.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="51.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="51.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="51.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.9" y="51.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.2" y="51.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="51.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="51.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.1" y="51.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.8" y="51.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.6" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.2" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.2" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="51.9" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.3" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.2" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.1" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.8" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="52.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.4" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.6" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.6" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.9" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="53.2" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="53.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="53.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59" y="53.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="60.3" y="53.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="53.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="53.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="53.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="53.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="53.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="53.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="53.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.8" y="53.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.4" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.6" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.9" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.1" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.8" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="54.5" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.6" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.2" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.1" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="55.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.6" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.2" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.9" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.2" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.1" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.8" y="55.8" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="56.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.2" y="56.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="56.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="56.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.8" y="56.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.4" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.6" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.2" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="57.1" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="57.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="57.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="57.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.2" y="57.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="57.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="57.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="57.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="57.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61.6" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.6" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.9" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.2" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.8" y="58.4" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.2" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.9" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.2" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.8" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="59" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.9" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.2" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.1" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.8" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="59.7" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="60.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="60.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="60.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="60.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="65.6" y="60.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="60.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.2" y="60.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="68.8" y="60.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.1" y="60.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="70.8" y="60.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="60.3" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="55.8" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="56.4" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.1" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="57.7" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="58.4" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="59.7" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="61" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="62.3" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="63.6" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="64.9" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.2" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="66.9" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="67.5" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="69.5" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+			<rect x="71.4" y="61" shape-rendering="optimizeSpeed" class="st4" width="0.7" height="0.7"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st4" d="M35.6,48.3h1l1.2,3.6l1.2-3.6h1l0.9,5.2h-1l-0.6-3.3l-1.1,3.3h-0.9l-1.1-3.3l-0.6,3.3h-1L35.6,48.3z"/>
+			<path class="st4" d="M45.4,51.1h-3.1c0,0.3,0.2,0.5,0.4,0.7c0.2,0.2,0.4,0.2,0.7,0.2c0.4,0,0.7-0.1,0.9-0.4l0.8,0.4
+				c-0.2,0.3-0.4,0.5-0.7,0.6c-0.3,0.1-0.6,0.2-1,0.2c-0.6,0-1.1-0.2-1.5-0.6c-0.4-0.4-0.6-0.9-0.6-1.4c0-0.6,0.2-1.1,0.6-1.5
+				c0.4-0.4,0.9-0.6,1.4-0.6c0.6,0,1.1,0.2,1.5,0.6c0.4,0.4,0.6,0.9,0.6,1.5L45.4,51.1z M44.4,50.4c-0.1-0.2-0.2-0.4-0.4-0.5
+				c-0.2-0.1-0.4-0.2-0.7-0.2c-0.3,0-0.5,0.1-0.7,0.2c-0.1,0.1-0.2,0.3-0.4,0.5H44.4z"/>
+			<path class="st4" d="M46.2,49h1v0.4c0.2-0.2,0.4-0.3,0.6-0.4c0.2-0.1,0.4-0.1,0.5-0.1c0.4,0,0.7,0.1,1,0.4c0.2,0.2,0.3,0.6,0.3,1
+				v2.5h-1v-1.7c0-0.5,0-0.8-0.1-0.9c0-0.1-0.1-0.3-0.2-0.3c-0.1-0.1-0.2-0.1-0.4-0.1c-0.2,0-0.4,0.1-0.5,0.2
+				c-0.1,0.1-0.2,0.3-0.3,0.5c0,0.1,0,0.4,0,0.8v1.5h-1V49z"/>
+			<path class="st4" d="M50.5,49.9h1v1.9c0,0.4,0,0.6,0.1,0.8c0,0.1,0.1,0.2,0.2,0.3c0.1,0.1,0.2,0.1,0.4,0.1c0.2,0,0.3,0,0.4-0.1
+				c0.1-0.1,0.2-0.2,0.2-0.3c0-0.1,0.1-0.3,0.1-0.7v-1.9h1v1.6c0,0.7-0.1,1.1-0.2,1.4c-0.1,0.3-0.3,0.5-0.6,0.7
+				c-0.3,0.2-0.6,0.2-1,0.2c-0.4,0-0.8-0.1-1-0.3c-0.3-0.2-0.4-0.4-0.5-0.8c-0.1-0.2-0.1-0.7-0.1-1.3V49.9z M52.3,47.8h1.1l-1.3,1.4
+				h-0.7L52.3,47.8z"/>
+		</g>
+		<g>
+			<path class="st4" d="M35.9,53.5c0.7,0,1.4,0.3,1.9,0.8c0.5,0.5,0.8,1.2,0.8,1.9c0,0.8-0.3,1.4-0.8,1.9c-0.5,0.5-1.2,0.8-1.9,0.8
+				c-0.8,0-1.4-0.3-1.9-0.8c-0.5-0.5-0.8-1.2-0.8-1.9c0-0.5,0.1-1,0.4-1.4c0.2-0.4,0.6-0.7,1-1C35,53.6,35.4,53.5,35.9,53.5z
+				 M35.9,54.4c-0.5,0-0.9,0.2-1.2,0.5c-0.3,0.3-0.5,0.8-0.5,1.3c0,0.6,0.2,1,0.6,1.4c0.3,0.3,0.7,0.4,1.1,0.4
+				c0.5,0,0.9-0.2,1.2-0.5c0.3-0.3,0.5-0.8,0.5-1.3c0-0.5-0.2-0.9-0.5-1.3C36.8,54.6,36.4,54.4,35.9,54.4z"/>
+			<path class="st4" d="M39.4,54.3h1v0.4c0.2-0.2,0.4-0.3,0.6-0.4c0.2-0.1,0.4-0.1,0.5-0.1c0.4,0,0.7,0.1,1,0.4
+				c0.2,0.2,0.3,0.6,0.3,1v2.5h-1v-1.7c0-0.5,0-0.8-0.1-0.9c0-0.1-0.1-0.3-0.2-0.3c-0.1-0.1-0.2-0.1-0.4-0.1c-0.2,0-0.4,0.1-0.5,0.2
+				c-0.1,0.1-0.2,0.3-0.3,0.5c0,0.1,0,0.4,0,0.8v1.5h-1V54.3z"/>
+			<path class="st4" d="M43.7,53.5h1v5.3h-1V53.5z"/>
+			<path class="st4" d="M45.9,53.5c0.2,0,0.3,0.1,0.4,0.2c0.1,0.1,0.2,0.3,0.2,0.4c0,0.2-0.1,0.3-0.2,0.4c-0.1,0.1-0.3,0.2-0.4,0.2
+				c-0.2,0-0.3-0.1-0.4-0.2s-0.2-0.3-0.2-0.5c0-0.2,0.1-0.3,0.2-0.4C45.6,53.5,45.7,53.5,45.9,53.5z M45.4,55h1v3.8h-1V55z"/>
+			<path class="st4" d="M47.2,54.3h1v0.4c0.2-0.2,0.4-0.3,0.6-0.4c0.2-0.1,0.4-0.1,0.5-0.1c0.4,0,0.7,0.1,1,0.4
+				c0.2,0.2,0.3,0.6,0.3,1v2.5h-1v-1.7c0-0.5,0-0.8-0.1-0.9c0-0.1-0.1-0.3-0.2-0.3c-0.1-0.1-0.2-0.1-0.4-0.1c-0.2,0-0.4,0.1-0.5,0.2
+				c-0.1,0.1-0.2,0.3-0.3,0.5c0,0.1,0,0.4,0,0.8v1.5h-1V54.3z"/>
+			<path class="st4" d="M55.4,56.5h-3.1c0,0.3,0.2,0.5,0.4,0.7c0.2,0.2,0.4,0.2,0.7,0.2c0.4,0,0.7-0.1,0.9-0.4l0.8,0.4
+				c-0.2,0.3-0.4,0.5-0.7,0.6c-0.3,0.1-0.6,0.2-1,0.2c-0.6,0-1.1-0.2-1.5-0.6c-0.4-0.4-0.6-0.9-0.6-1.4c0-0.6,0.2-1.1,0.6-1.5
+				c0.4-0.4,0.9-0.6,1.4-0.6c0.6,0,1.1,0.2,1.5,0.6c0.4,0.4,0.6,0.9,0.6,1.5L55.4,56.5z M54.5,55.7c-0.1-0.2-0.2-0.4-0.4-0.5
+				S53.7,55,53.4,55c-0.3,0-0.5,0.1-0.7,0.2c-0.1,0.1-0.2,0.3-0.4,0.5H54.5z"/>
+		</g>
+	</g>
 </g>
 </svg>
