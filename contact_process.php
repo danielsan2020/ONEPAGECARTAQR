@@ -14,8 +14,13 @@
 
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
+<<<<<<< HEAD
     $csubject = $_REQUEST['subject'];
     $cmessage = $_REQUEST['message'];
+=======
+    $subject = $_REQUEST['subject'];
+    $message = $_REQUEST['message'];
+>>>>>>> dd83eaf2dcb12395d6f4ed4182f17a049b11dd50
 
 	$smtpHost = "smtp.gmail.com";	//SMTP del servicio de correos
 	$smtpUsuario = "rikardo150@gmail.com";	//Correo desde donde será enviado
