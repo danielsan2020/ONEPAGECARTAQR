@@ -4,8 +4,7 @@
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];
-    $number = $_REQUEST['number'];
-    $cmessage = $_REQUEST['message'];
+    $message = $_REQUEST['message'];
 
     $headers = "From: $from";
 	$headers = "From: " . $from . "\r\n";
