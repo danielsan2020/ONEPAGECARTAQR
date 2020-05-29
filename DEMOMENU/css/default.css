@@ -1,0 +1,187 @@
+/*=============================================================
+fonts
+=============================================================*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Poppins:300,400,500,600,700,800,900');
+
+
+/*=============================================================
+html and body
+=============================================================*/
+body {
+    background: #121212;
+    color: #e1e1e1;
+    font-family: 'Open Sans', sans-serif;
+}
+.section-padding {
+    padding: 100px 0;
+}
+
+.section-heading {
+    text-align: center;
+}
+
+.section-heading h5 {
+    margin-bottom: 10px;
+}
+
+.section-heading > p {
+    margin: 10px 0 30px;
+}
+
+.section-heading.section-heading2 h2 {
+    margin: 12px 0 20px;
+}
+
+.menu-img {
+    overflow: hidden;
+}
+
+
+
+h1 {
+    font-size: 56px;
+    line-height: 65px;
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 45px;
+}
+
+h3 {
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 22px;
+    line-height: 16px;
+
+}
+
+h5 {
+    color: #fe7129;
+    font-size: 18px;
+    line-height: 16px;
+}
+
+h6 {
+    font-size: 16px;
+    line-height: 15px;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    color: #a1a1a1
+
+}
+
+button {
+    outline: none !important;
+}
+
+.btn {
+    white-space: inherit;
+}
+
+a {
+    font-weight: 600;
+    display: inline-block;
+    color: #a1a1a1;
+}
+
+a:hover,
+a:active {
+    color: #FE7129;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:focus {
+    text-decoration: none;
+    outline: 0;
+}
+:focus {
+    outline: 0;
+}
+
+
+ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+
+::placeholder {
+    color: #b2b2b2;
+}
+
+::-moz-placeholder {
+    color: #b2b2b2;
+}
+
+:-ms-input-placeholder {
+    color: #b2b2b2;
+}
+
+::-webkit-input-placeholder {
+    color: #b2b2b2;
+}
+
+/*============= styles ===================*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h4 {
+    line-height: 20px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+.mt-20 {
+    margin-top: 20px
+}
+
+.mt-30 {
+    margin-top: 30px
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.mt-60 {
+    margin-top: 60px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.mtb-20-30 {
+    margin: 20px 0 30px;
+}
+
+.mtb-20-0 {
+    margin: 20px 0;
+}

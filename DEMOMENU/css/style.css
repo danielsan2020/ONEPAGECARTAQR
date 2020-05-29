@@ -1,0 +1,843 @@
+      
+/*================= 1.1 Header Area ===============*/
+.main-menu nav ul li a,
+.main-menu nav ul li.reservation a img,
+.theme-color1  img,
+.app-item a,
+a,
+.owl-prev,
+.owl-next,
+.header-menu.sticky,
+.mobile_menu .reservation img,
+.social,
+.about-item,
+.row.middle.middle-left::after,
+.single-service,
+.card-social .overflow-hide::after,
+
+#accordion,
+.single-service,
+.offer-card,
+.about-item,
+
+.slicknav_nav a:visited ,.hero2 h1,.theme-color1:hover ,.delicious-content h2, .post-reply .gym-btn ,.follow .gym-btn.red ,.single-post-slide p , .menu-content h4 ;.btn-outline-secondary:not(:disabled):not(.disabled).active, .btn-outline-secondary:not(:disabled):not(.disabled):active, .gj-datepicker-bootstrap [role="right-icon"] button , .show>.btn-outline-secondary.dropdown-toggle {
+    color: #ffffff;
+}
+
+.history-area::before , .delicious-area::after ,.counter-area::after {
+    background: #000;
+}
+
+.theme-color1.bg-none {
+    color: #fff;
+}
+
+header , .social a:hover {
+       background: #1B1B1B;
+}
+
+a.food-link:hover .menu-content h4 {
+    color: #FE7129;
+}
+.about-item, .offer-card,.glorious .small-heading {
+    background: #1D1D1D;
+}
+body.white .about-item ,body.white ,body.white .offer-card,body.white .glorious .small-heading , body.white .blog-right::after, body.white .blog-left::after{
+    background: none;
+}
+
+/*============ White theme ==================*/
+
+body.white p {
+  color: #1d1d1d;
+}
+
+body.white .hero2 h1{
+  color: #fff;
+}
+
+body.white .hero2 p , body.white .like-us.color-white p ,body.white .contact-form .section-heading h2 , body.white .contact-form .section-heading p ,body.white .reservation-form .section-heading h2{
+  color: #ebebeb;
+}
+
+body.white {
+  background: #ffffff;
+  color: #111111;
+}
+
+body.white .section-heading > p , body.white .like-us.small-heading h2 , body.white .about-item h3, body.white .offer-card > h3 ,body.white-content a ,body.white .glorious .small-heading h2{
+  color: #1b1b1b;
+}
+
+ body.white .like-us.color-white > h2 ,body.white .counter-value , body.white .single-photo-gallery > h2 ,body.white .post-card h5{
+    color: #fff;
+}
+body.white .follow input ,body.white , body.white .gj-picker-bootstrap, body.white header{
+    background:#fff;;
+}
+body.white .menu-content > h4 , body.white .post-reply form input , body.white .post-reply form textarea , body.white .selectCF li ul li{
+    color: #1b1b1b;
+}
+body.white .footer-content > h6 , body.white .public .single-rtd{
+    color: #a1a1a1;
+}
+body.white .menu-content p {
+  color: #323232;
+}
+body.white .offer-card {
+  background: #fff none repeat scroll 0 0;
+  color: #ebebeb;
+}
+body.white .delicious-content h2 ,body.white .app-content p ,body.white .other-locations .section-heading h2{
+  color: #ebebeb;
+}
+ body.white .selectCF li ul li{
+  color: #ebebeb;
+}
+
+body.white .main-blog .blog-card a , body.white .resent-post a ,body.white .main-menu nav ul li a ,body.white .main-blog a ,body.white .one-item-content.text-center p , body.white .btn.btn-link.collapsed{
+  color: #1d1d1d;
+}
+
+body.white .main-blog .blog-card a:hover ,body.white .post-social a:hover ,body.whit .theme-color1.bg-none , body.white .btn.btn-link.collapsed:hover ,body.white .main-menu nav ul li a:hover, body.white .main-menu nav ul li.active a , body.white .main-blog a:hover ,body.white-content a:hover , body.white .main-blog .blog-card p ,body.white .page a:hover{
+  color: #FF6D02;
+}
+
+body.white .post-social a , body.white .pagination-area a ,body.white .post-social.follow h6 , body.white .page h2 ,body.white .page a{
+  color: #ebebeb
+}
+
+body.white .single-post-slide p {
+  color: #ebebeb !important;
+
+}
+body.white .post-item a ,body.white .single-rtd h5{
+  color: #111111;
+} 
+
+body.white .best-chefs.our-team::after {
+    background: #fff;
+}
+body.white .other-locations{
+    background: url(../img/hero/restaurant-3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body.white .other-locations::after{
+    background: #000;
+    height: 100%;
+    opacity: .9
+}
+
+body.white .btn.btn-link::after {
+  background: rgba(0, 0, 0, 0) url("../img/contact/black-up.png") no-repeat scroll right center;
+
+}
+body.white .btn.btn-link.collapsed::after {
+  background: rgba(0, 0, 0, 0) url("../img/contact/black-down.png") no-repeat scroll right center;
+}
+
+body.white .footer-content p ,body.white .coppy-right p{
+    color: #a1a1a1;
+}
+
+body.white .card-header ,body.white .card-body {
+        border: none;
+  border-bottom: 1px solid #ebebeb;
+
+        
+}
+/*============ White theme ==================*/
+
+
+header {
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+
+.logo a {
+    display: inline-block;
+}
+
+.main-menu {
+    text-align: right;
+}
+
+.main-menu nav ul li {
+    display: inline-block;
+    position: relative;
+}
+
+.main-menu nav ul li a {
+    color: #e1e1e1;
+    display: block;
+    font-family: poppins;
+    font-weight: 400;
+    padding: 21px 12px;
+}
+
+.main-menu nav ul li.reservation a {
+    color: white;
+    font-weight: 600;
+    position: relative;
+    margin-right: 40px;
+    margin-left: 15px
+}
+
+.main-menu nav ul li.reservation a img {
+    margin-left: 20px;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.main-menu nav ul li.reservation a:hover img {
+    margin-left: 30px;
+}
+
+.main-menu nav ul li:last-child a {
+    padding-right: 0;
+}
+
+.main-menu nav ul li a:hover {
+    color: #00A0FE;
+}
+
+.main-menu nav ul li.active a {
+    color: #00A0FE;
+}
+
+/*===== mobile menu slicknav =====*/
+
+.mobile_menu {
+    position: absolute;
+    right: 30px;
+    width: 100%;
+    z-index: 9999999;
+}
+
+.slicknav_menu .slicknav_menutxt {
+    display: none;
+}
+
+.slicknav_menu {
+    background: transparent;
+    margin-top: 10px;
+}
+
+.slicknav_menu .slicknav_icon-bar {
+    background-color: #ffffff;
+    height: 2px;
+    margin: 3px 0;
+    transition: all 0.3s ease 0s;
+    width: 30px;
+}
+
+
+.slicknav_btn {
+    background-color: transparent;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-top: -42px;
+    position: relative;
+}
+
+.slicknav_menu .slicknav_open .slicknav_icon-bar:nth-child(2) {
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}
+
+.slicknav_menu .slicknav_open .slicknav_icon-bar:nth-child(1) {
+    -webkit-transform: rotate(45deg) translate(1px, 7px);
+    transform: rotate(45deg) translate(1px, 7px);
+}
+
+.slicknav_menu .slicknav_open .slicknav_icon-bar:nth-child(3) {
+    -webkit-transform: rotate(-45deg) translateY(-6px);
+    transform: rotate(-45deg) translateY(-6px);
+}
+
+.slicknav_menu {
+    margin: 0;
+    padding: 0;
+}
+
+.slicknav_nav {
+  background: #0094FB;
+  float: right;
+  margin-top: 1px !important;
+  padding: 0;
+  width: 92%;
+}
+
+.slicknav_nav a:hover {
+  background: #161616 none repeat scroll 0 0;
+  border-radius: 0;
+  color: white;
+}
+
+.slicknav_nav a {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.slicknav_nav .slicknav_arrow {
+    float: right;
+}
+
+.slicknav_nav .slicknav_row:hover,
+.slicknav_nav .slicknav_row:hover .slicknav_arrow {
+    border-radius: 0;
+    background-color: #3c3333;
+}
+
+.mobile_menu .reservation a {
+    font-weight: 600;
+}
+
+.mobile_menu .reservation img {
+    margin-left: 10px;
+}
+
+.mobile_menu .reservation:hover img {
+    margin-left: 30px;
+}
+
+/*================= 1.1 Header Area END ==============*/
+/*================= 1.2 Hero Area Start ==============*/
+
+.slide-1 {
+    position: relative;
+    z-index: 9999;
+}
+
+.hero-area {
+    height: 100%;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+
+
+.slide-bg-2::before,
+.slide-bg-3::before,
+.slide-bg-3::after,
+.slide-bg-2::after,
+.slide-bg-1::before,
+.slide-bg-1::after,
+.hero-area::before,
+.hero-area::after {
+    background:#000;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    content: "";
+    top: 0;
+    left: 0;
+    z-index: 9;
+    opacity: .6;
+}
+
+
+.slide-bg-1::after,
+.slide-bg-2::after {
+    z-index: 99999
+}
+
+.hero-area .row {
+    align-items: center;
+    height: 100vh
+}
+
+.position1 {
+    left: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 5;
+}
+
+.position2 {
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 5;
+}
+
+.position3 {
+    position: absolute;
+    right: 0;
+    height: 100%;
+    z-index: 1;
+}
+
+.position4 {
+    position: absolute;
+    right: 0;
+    height: 220px;
+    z-index: 2;
+}
+
+.hero-area .owl-dots {
+    bottom: 10%;
+    left: 50%;
+    position: absolute !important;
+    transform: translate(-50%);
+    z-index: 999
+}
+
+.hero-area .owl-dot {
+    background: #fe7129 !important;
+    border-radius: 50%;
+    display: inline-block;
+    height: 9px;
+    margin: 5px;
+    width: 9px;
+    z-index: 10;
+    opacity: .7;
+}
+
+.hero-area .owl-dot.active {
+  background:#fe7129 !important;
+  opacity: 1;
+}
+
+.hero2 {
+    margin-top: 50px;
+}
+
+.hero2 h1 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 68px;
+    text-transform: capitalize;
+}
+
+.hero2 h1 span {
+    color: #fe7129;
+    font-weight: 800;
+}
+
+.hero2 p {
+  color: #d9d9db;
+  font-size: 20px;
+  line-height: 33px;
+  padding: 10px 0 30px;
+}
+
+.theme-color1 img {
+    height: 9px;
+    margin-left: 10px;
+    width: 27px !important;
+    position: absolute;
+    top: 50%;
+    right: 23px;
+    transform: translateY(-50%);
+}
+
+.theme-color1 {
+    background: #00A0FE;
+    color: #FDFDFD;
+    font-family: poppins;
+    font-weight: 500;
+    border-radius: 5px;
+    line-height: 19px;
+    padding: 10px 60px 15px 25px;
+    position: relative;
+
+}
+
+.theme-color1:hover {
+    -webkit-box-shadow: 0px 10px 14px -11px rgba(0, 0, 0, 0.87);
+    box-shadow: 0px 10px 14px -11px rgba(0, 0, 0, 0.87);
+    color: #fff;
+}
+
+.theme-color1:hover img {
+    right: 10px;
+}
+
+.theme-color1.bt-right {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 170px;
+}
+
+.theme-color2 {
+    background: #fe7129;
+    color: #FDFDFD;
+    font-family: poppins;
+    font-weight: 500;
+    border-radius: 5px;
+    line-height: 19px;
+    padding: 10px 25px 15px 25px;
+    position: relative;
+
+}
+
+.theme-color2:hover {
+    -webkit-box-shadow: 0px 10px 14px -11px rgba(0, 0, 0, 0.87);
+    box-shadow: 0px 10px 14px -11px rgba(0, 0, 0, 0.87);
+    color: #fff;
+}
+
+.theme-color2.bt-right {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 170px;
+  }
+
+
+
+/*  =============== 1.4 About Us Area Start =====*/
+
+.history-area.section-padding {
+    padding: 100px 0 0;
+}
+
+.history-area .like-us {
+    margin-top: -100px;
+}
+
+.history-area {
+    background-image: url("../img/servicioExcelente.jpg");
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+}
+
+.history-area::before {
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: 0.9;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.history-area .row {
+    align-items: center;
+}
+
+/*  =============== 1.4 About Us Area End =========== */
+/*  =============== 1.5 Our Menu Area Start =========== */
+
+.our-menu-area {
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.our-menu-area::after {
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: "";
+    height: 100%;
+    opacity: 0.5;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 270px;
+    z-index: -1;
+}
+
+.section-heading h2,
+.our-service .section-heading h2,
+.section-heading h2,
+.section-heading h2,
+.our-menu-area .section-heading h2 {
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+
+.food-link {
+    width: 100%;
+}
+
+.our-menu-list {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.our-menu-list ul li {
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    padding: 0 10px;
+}
+
+.our-menu-list ul li:hover {
+    color: #fe7129;
+}
+
+.our-menu-list .control.active {
+    color: #fe7129;
+}
+
+.single-menu-item {
+    align-items: center;
+    display: flex;
+}
+
+.single-menu-item:hover .menu-content {
+    color: #fe7129;
+}
+
+.menu-content {
+    margin-left: 40px;
+    width: 58%;
+}
+
+.menu-content {
+  margin-left: 40px;
+  width: 66%;
+}
+
+.menu-content  h4 {
+    font-size: 21px;
+    font-weight: 400;
+    margin-bottom: 8px;
+    color: #e1e1e1;
+    line-height: 100%;
+
+
+}
+
+.menu-content p {
+    line-height: 18px;
+}
+
+/*  =============== 1.5 Our Menu Area End  =============  */
+
+/* =============== 1.9 Photos Gallery Area Start ============ */
+.photo-gallery {
+    margin-top: 60px;
+}
+
+.single-photo-gallery h2 {
+  background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
+  bottom: 6px;
+  font-size: 27px;
+  left: 50%;
+  padding: 7px 0;
+  position: absolute;
+  text-align: center;
+  transform: translate(-50%);
+  width: 100%;
+}
+
+
+.photo-gallery .owl-nav button {
+    color: #FE7129 !important;
+    font-size: 40px !important;
+    height: 63px;
+    line-height: 0 !important;
+    position: absolute !important;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 54px;
+}
+
+.photo-gallery .owl-nav button {
+    outline: inherit;
+    background: rgba(0, 0, 0, 0.2) !important;
+}
+
+.photo-gallery .owl-prev:hover {
+    background: rgba(0, 0, 0, 1) !important;
+}
+
+.photo-gallery .owl-prev {
+    left: 0;
+}
+
+.photo-gallery .owl-next {
+    right: 0;
+    background: rgba(0, 0, 0, 0.2) !important;
+}
+
+.photo-gallery .owl-next:hover {
+    background: rgba(0, 0, 0, 1) !important;
+}
+
+/* =============== 1.9 Photos Gallery Area End ============ */
+/*========== ===== 1.10 Delicious Area Start   ============ */
+
+.delicious-area {
+    position: relative;
+    background-image: url(../img/servicioExcelente.jpg);
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+    background-attachment: fixed;
+}
+
+.delicious-area::after {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.9;
+}
+
+.delicious-content h2 {
+    font-weight: 600;
+}
+
+.delicious-content  h3 {
+    color: #ebebeb;
+    font-weight: 500;
+    margin: 20px 0 40px;
+}
+
+.deliciouss-area {
+    position: relative;
+    background-image: url(../img/promo.jpg);
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+    background-attachment: fixed;
+}
+
+/*========== 1 .10 Delicious Area End   ============ */
+
+/*==========  1.13 Footer Area Start   ============*/
+
+.footer-area {
+    background: #1d1d1d none repeat scroll 0 0;
+    position: relative;
+    z-index: 1;
+}
+
+.footer-content a {
+    font-weight: 400;
+    margin: 0 0 10px;
+}
+
+/*================== search Bar ================*/
+
+.footer-follow  a {
+    border-radius: 50%;
+    font-size: 16px;
+    height: 40px;
+    margin-right: 10px;
+    padding: 7px;
+    text-align: center;
+    width: 40px;
+}
+
+.footer-follow  a:hover {
+    background: #fff;
+    color: #00A0FE;
+}
+
+.hr {
+    background: #b2b2b2;
+    height: 1px;
+    margin: 30px auto;
+    width: 60%;
+}
+
+/*==========  1.12 Footer Area Start   ============*/
+
+/*============== 1.1 About-us page Start  ===========*/
+
+.page {
+    background-image: url(../img/portada.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 2;
+    padding: 130px 0 50px;
+    background-attachment: fixed;
+}
+
+
+.page::after {
+    background: #000000;
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: 0.7;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+
+}
+.page .row {
+    align-items: center;
+    position: relative;
+    z-index: 9999;
+}
+
+.page .position2 {
+    left: 40%;
+}
+
+.page h2 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.page a {
+    margin-right: 15px;
+    text-transform: capitalize;
+    font-weight: 600
+}
+
+
+.page span {
+    color: #fe7129;
+    margin-left: 10px;
+    text-transform: capitalize;
+    font-weight: 600
+}
+
+
+.theme-color1.bg-none {
+    background: rgba(0, 0, 0, 0);
+    border: 1px solid #000;
+}
+
+.remove-food{
+    font-size: 25px;
+}
+
+.add-food {
+    font-size: 25px;
+}
+
+.order-hr {
+    border: 0.5px solid white;
+    width: 70%;
+    align-content: center;
+
+}
+
+.receive-order {
+    font-size: 15px;
+    text-align: center;
+    line-height: normal;
+}
