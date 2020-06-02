@@ -36,8 +36,8 @@ description.forEach(item => {
             elemet.parentNode.classList.toggle('desactive')
         }
     })
-    outer.addEventListener('click', e => {
-        if (!elemet.contains(e.target) && isVisible(elemet) && !(e.target.classList.contains('img-menu') || e.target.classList.contains('name-menu'))) {
+    outer.addEventListener('mousedown', e => {
+        if (!elemet.contains(e.target) && isVisible(elemet)) {
             item.classList.add('desactive');
             }
     })

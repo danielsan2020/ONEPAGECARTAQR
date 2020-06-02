@@ -27,14 +27,14 @@ function addFood(e) {
         let itemDiv = e.target.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement;
         let h4s = itemDiv.querySelectorAll("h4");
         let myh4 = [...h4s].filter(e => e.innerText === name);
-        const item = myh4[0].parentElement.parentElement;
+        let item;
+        myh4.length > 1 ? item = myh4[1].parentElement.parentElement : item = myh4[0].parentElement.parentElement;
         removeItem(item);
         itemCount(item, action);
     };
 };
 
 function itemCount(item, action) {
-    console.log(item);
     let counterElement = item.querySelector('.item-counter')
     let counter = parseInt(counterElement.textContent);
     action === "add" ? counter++ : counter--;
